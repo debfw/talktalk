@@ -1,6 +1,42 @@
-# talktalk
+# TalkTalk - AI Therapy Companion App
 
-A new Flutter project.
+A Flutter-based mental health application that provides AI therapy sessions, daily recommendations, mood tracking, and journaling features.
+
+## Features
+
+### 1. AI Therapy Sessions
+
+- Real-time chat interface with AI therapist
+- Natural conversation flow
+- Supportive and empathetic responses
+
+### 2. Daily Recommendations
+
+- Therapeutic playlist suggestions
+- Reading recommendations
+- Daily inspirational quotes
+
+### 3. Progress Tracking
+
+- Daily mood tracking
+- Activity monitoring
+- Progress visualization through charts
+
+### 4. Journal
+
+- Daily journal entries
+- Emotion tracking
+- Personal reflections
+- Date-based organization
+
+### 5. Settings
+
+- Profile management
+- Notification preferences
+- Theme customization
+- Privacy settings
+
+## Project Structure
 
 ## Getting Started
 
